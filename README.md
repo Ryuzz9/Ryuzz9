@@ -25,5 +25,17 @@
  [![adobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]  [![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]  [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)] 
 
 
-![Ryu GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuzz9&show_icons=true&theme=onedark)
+![Ryu GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuzz9&show_icons=true&theme=onedark) 
+
+<p>
+
+### Meu linkedin:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcello-aguilar-souza-53723a20b/);
+
+
+
+
+
+
 
