@@ -1,6 +1,6 @@
  ### ola! meu nome é Joao Marcello  👋 <p>
 
-### Eu sou estudante tecnico no curso, tecnico informatica Senac Minas.
+### Desenvolvedor Front-End & UI/UX
 ### Estou em busca ao meu primeiro emprego ou projeto no mercado<br> no ramo da progamação
 ### Também sou design gráfico.
 ### Uso linguaem de marcação:
