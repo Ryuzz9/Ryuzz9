@@ -1,8 +1,6 @@
  ### ola! meu nome é Joao Marcello  👋 <p>
 
 ### Desenvolvedor Front-End & UI/UX
-### Estou em busca ao meu primeiro emprego ou projeto no mercado<br> no ramo da progamação
-### Também sou design gráfico.
 ### Uso linguaem de marcação:
  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 
